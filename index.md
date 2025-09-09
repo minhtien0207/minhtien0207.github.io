@@ -1,10 +1,10 @@
-## Portfolio
+## Data scientist Portfolio
 
 ---
 
 ### Data visualization projects
 
-[Project 1 Title](/sample_page)
+[Formula 1 aerodynamic analysis](https://f1-testing.streamlit.app/)
 <img src="images/preview_1-1.jpg?raw=true"/>
 
 ---
@@ -21,9 +21,6 @@
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
