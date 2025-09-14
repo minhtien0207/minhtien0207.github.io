@@ -8,8 +8,8 @@
 <img src="images/preview_1-1.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Formula 1 normalisation by fuel correction](https://fuel-corrected-laptime.streamlit.app)
+<img src="images/preview_1-2.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
