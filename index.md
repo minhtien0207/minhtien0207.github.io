@@ -4,23 +4,22 @@
 
 ### Data visualization projects
 
-[Formula 1 aerodynamic analysis](https://f1-testing.streamlit.app/)
+[Formula 1 - Aerodynamic analysis](https://f1-testing.streamlit.app/)
 <img src="images/preview_1-1.jpg?raw=true"/>
 
 ---
-[Formula 1 normalisation by fuel correction](https://fuel-corrected-laptime.streamlit.app)
+[Formula 1 - Lap time normalisation by fuel adjustment](https://fuel-corrected-laptime.streamlit.app)
 <img src="images/preview_1-2.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Underconstrucion - Project 3](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Machine learning projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Football - Similar player (underconstruction)](http://example.com/)
 
 ---
 
