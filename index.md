@@ -12,14 +12,14 @@
 <img src="images/preview_1-2.jpg?raw=true"/>
 
 ---
-[Underconstrucion - Project 3](http://example.com/)
+[Project 3 - (Underconstruction)](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Machine learning projects
 
-- [Football - Similar player (underconstruction)](http://example.com/)
+- [Football - Similar player (Underconstruction)](http://example.com/)
 
 ---
 
