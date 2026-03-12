@@ -12,8 +12,8 @@
 <img src="images/preview_1-2.jpg?raw=true"/>
 
 ---
-[Project 3 - (Underconstruction)](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Formula 1 - Hot lap comparison)](https://f1-hotlap-comparison.streamlit.app)
+<img src="images/preview_1-3.png?raw=true"/>
 
 ---
 
